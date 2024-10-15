@@ -1,10 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/978595336269&douyin&logo" group-title="抖音",清风亚索
-https://live.iill.top/douyin/978595336269
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/7734200&bilibili&logo" group-title="B站",英雄联盟赛事
-https://live.iill.top/bilibili/7734200
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/654952901902&douyin&logo" group-title="抖音",小海锤石
 https://live.iill.top/douyin/654952901902
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/978595336269&douyin&logo" group-title="抖音",清风亚索
+https://live.iill.top/douyin/978595336269
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/216681844390&douyin&logo" group-title="抖音",柔风亚索
+https://live.iill.top/douyin/216681844390
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/807196669194&douyin&logo" group-title="抖音",KZH
+https://live.iill.top/douyin/807196669194
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/921169302662&douyin&logo" group-title="抖音",陈伯（QQ飞车）
+https://live.iill.top/douyin/921169302662
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/7734200&bilibili&logo" group-title="B站",英雄联盟赛事
+https://live.iill.top/bilibili/7734200
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/30877175&bilibili&logo" group-title="B站",牛油果大虾沙拉(雀魂)
 https://live.iill.top/bilibili/30877175
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/48499&bilibili&logo" group-title="B站",扎双马尾的丧尸
@@ -17,3 +23,11 @@ https://live.iill.top/huya/415355
 https://live.iill.top/huya/12214
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/573149&huya&logo" group-title="虎牙",夜刀神
 https://live.iill.top/huya/573149
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/257085&huya&logo" group-title="虎牙",小超梦
+https://live.iill.top/huya/257085
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/836458&huya&logo" group-title="虎牙",莎莉马佳佳
+https://live.iill.top/huya/836458
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/572329&huya&logo" group-title="虎牙",北枫
+https://live.iill.top/huya/572329
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/981585&huya&logo" group-title="虎牙",芒果鱼
+https://live.iill.top/huya/981585
