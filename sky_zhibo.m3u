@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/7734200&bilibili&logo" group-title="游戏",B站英雄联盟赛事
+https://live.iill.top/bilibili/7734200
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/660000&huya&logo" group-title="游戏",虎牙英雄联盟赛事
+https://live.iill.top/huya/660000
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/654952901902&douyin&logo" group-title="游戏",小海锤石
 https://live.iill.top/douyin/654952901902
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/978595336269&douyin&logo" group-title="游戏",清风亚索
@@ -9,16 +13,8 @@ https://live.iill.top/douyin/216681844390
 https://live.iill.top/douyin/807196669194
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/921169302662&douyin&logo" group-title="游戏",陈伯（QQ飞车）
 https://live.iill.top/douyin/921169302662
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/7734200&bilibili&logo" group-title="游戏",B站英雄联盟赛事
-https://live.iill.top/bilibili/7734200
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/30877175&bilibili&logo" group-title="游戏",牛油果大虾沙拉(雀魂)
 https://live.iill.top/bilibili/30877175
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/48499&bilibili&logo" group-title="娱乐",扎双马尾的丧尸
-https://live.iill.top/bilibili/48499
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/691349&huya&logo" group-title="娱乐",温舒蕾
-https://live.iill.top/huya/691349
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/415355&huya&logo" group-title="娱乐",深情默指导
-https://live.iill.top/huya/415355
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/12214&huya&logo" group-title="游戏",十四剑姬
 https://live.iill.top/huya/12214
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/573149&huya&logo" group-title="游戏",夜刀神
@@ -33,5 +29,13 @@ https://live.iill.top/huya/572329
 https://live.iill.top/huya/981585
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/252140&douyu&logo" group-title="游戏",Doinb
 https://live.iill.top/douyu/252140
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/660000&huya&logo" group-title="游戏",虎牙英雄联盟赛事
-https://live.iill.top/huya/660000
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/48499&bilibili&logo" group-title="娱乐",扎双马尾的丧尸
+https://live.iill.top/bilibili/48499
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/691349&huya&logo" group-title="娱乐",温舒蕾
+https://live.iill.top/huya/691349
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/415355&huya&logo" group-title="娱乐",深情默指导
+https://live.iill.top/huya/415355
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/5092355&douyu&logo" group-title="娱乐",二呆啾
+https://live.iill.top/douyu/5092355
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/31006157&bilibili&logo" group-title="娱乐",花幕sikulin
+https://live.iill.top/bilibili/31006157
